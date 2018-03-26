@@ -12,6 +12,8 @@ I'm not really sure yet.
 [X]
 
 ### A
+| Title | Platform | % | Installed? | Playing? |
+| ----- | -------- | - | ---------- | -------- |
 | Assassin's Creed Unity | Uplay | 0% | Not Installed | Not Playing |
 | Assassin's Creed Origins | Uplay | ~60% | Installed | Playing |
 
