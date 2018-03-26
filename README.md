@@ -9,7 +9,7 @@ I'm not really sure yet.
 
 ## The List
 ### \#
-[X]
+❌
 
 ### A
 | Title | Platform | % | Installed? | Playing? |
@@ -18,13 +18,17 @@ I'm not really sure yet.
 | Assassin's Creed Origins | Uplay | ~60% | Installed | Playing |
 
 ### B
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Batman: Arkham Origins | Steam | 0% | Not Installed | Not Playing |
 | Batman: Arkham Knight | Steam | 0% | Not Installed | Not Playing |
 
 ### C
-[X]
+❌
 
 ### D
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | The Darkness Ⅱ | Steam | 0% | Not Installed | Not Playing |
 | Darksiders: Warmastered Edition | Steam | 0% | Not Installed | Not Playing |
 | Darksiders Ⅱ: Deathinitive Edition | Steam | 0% | Not Installed | Not Playing |
@@ -33,18 +37,24 @@ I'm not really sure yet.
 | Dying Light: The Following | Steam | ~30% | Installed | Playing |
 
 ### E
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | The Elder Scrolls Ⅴ: Skyrim (+DLC) | Steam | ???% | Installed | Not Playing |
 | Else Heart.Break() | Steam | 115% | Installed | Playing |
 | Euro Truck Simulator 2 | Steam | ∞% | Installed | Playing |
 
 ### F
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Fallout 4 | Steam | ~20% | Installed | Playing |
 | Far Cry 5 | Uplay | 0% | Not Installed | Not Playing |
 
 ### G
-[X]
+❌
 
 ### H
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Hacknet (+ Labyrinths) | Steam | 100% | Installed | Playing |
 | HEADLINER | Steam | 0% | Not Installed | Not Playing |
 | Heat Signature | Steam | ~60% | Installed | Playing |
@@ -52,18 +62,26 @@ I'm not really sure yet.
 
 
 ### I
-[X]
+❌
 
 ### J
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Jotun: Valhalla Edition | Steam | 0% | Not Installed | Not Playing |
 
 ### K
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Keep Talking and Nobody Explodes | Steam | ~5% | Installed | Not Playing |
 
 ### L
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | The Low Road | Steam | ~75% | Installed | Not Playing |
 
 ### M
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Mad Max | Steam | ~90% | Installed | Not Playing |
 | Megaton Rainfall | Steam | 100% | Installed | Playing |
 | Metal Gear Rising: Revengeance | Steam | 0% | Not Installed | Not Playing |
@@ -71,22 +89,26 @@ I'm not really sure yet.
 | My Time At Portia | Steam | ~20% | Installed | Not Playing |
 
 ### N
-[X]
+❌
 
 ### O
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Orwell | Steam | ~90% | Installed | Not Playing |
 | Orwell: Ignorance is Strength | Steam | ~20% | Installed | Playing |
 
 ### P
-[X]
+❌
 
 ### Q
-[X]
+❌
 
 ### R
-[X]
+❌
 
 ### S
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | The Saboteur | GOG | ~50% | Installed | Playing |
 | Saints Row 2 | Steam | 0% | Not Installed | Not Playing |
 | Saints Row Ⅳ | Steam | ~95% | Installed | Not Playing |
@@ -102,22 +124,26 @@ I'm not really sure yet.
 | StoneHearth | Steam | ∞% | Installed | Playing |
 
 ### T
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Tacoma | Steam | 0% | Installed | Not Playing |
 
 ### U
-[X]
+❌
 
 ### V
-[X]
+❌
 
 ### W
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
 | Watch_Dogs 2 (+DLC) | Uplay | ~95% | Installed | Playing |
 
 ### X
-[X]
+❌
 
 ### Y
-[X]
+❌
 
 ### Z
-[X]
+❌
