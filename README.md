@@ -33,7 +33,7 @@ I'm not really sure yet.
 | Darksiders: Warmastered Edition | Steam | 0% | Not Installed | Not Playing |
 | Darksiders Ⅱ: Deathinitive Edition | Steam | 0% | Not Installed | Not Playing |
 | Deus Ex: Mankind Divided | Steam | ~40% | Installed | Playing |
-| Dying Light | Steam | 90~100% | Steam | Installed | Not Playing |
+| Dying Light | Steam | 90~100% | Installed | Not Playing |
 | Dying Light: The Following | Steam | ~30% | Installed | Playing |
 
 ### E
