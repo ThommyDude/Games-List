@@ -47,7 +47,7 @@ I'm not really sure yet.
 | Title | Platform | % | Installed? | Playing? |
 |:-----:|:--------:| -:|:----------:|:--------:|
 | Fallout 4 | Steam | ~20% | Installed | Playing |
-| Far Cry 5 | Uplay | 0% | Not Installed | Not Playing |
+| Far Cry 5 | Uplay | 0% | Installed | Not Playing |
 
 ### G
 ❌
