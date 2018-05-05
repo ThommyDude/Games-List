@@ -14,8 +14,12 @@ I'm not really sure yet.
 ### A
 | Title | Platform | % | Installed? | Playing? |
 |:-----:|:--------:| -:|:----------:|:--------:|
+| Assassin's Creed III | Uplay | 100% | Not Installed | Not Playing |
+| Assassin's Creed III DLC | Uplay | 0% | Not Installed | Not Playing |
+| Assassin's Creed Liberation HD | Uplay | 0% | Not Installed | Not Playing |
 | Assassin's Creed Unity | Uplay | 0% | Not Installed | Not Playing |
-| Assassin's Creed Origins | Uplay | ~60% | Installed | Playing |
+| Assassin's Creed Origins | Uplay | ~95% | Installed | Playing |
+| Assassin's Creed Origins DLC | Uplay | ~10% | Installed | Playing |
 
 ### B
 | Title | Platform | % | Installed? | Playing? |
@@ -47,7 +51,7 @@ I'm not really sure yet.
 | Title | Platform | % | Installed? | Playing? |
 |:-----:|:--------:| -:|:----------:|:--------:|
 | Fallout 4 | Steam | ~20% | Installed | Playing |
-| Far Cry 5 | Uplay | 0% | Installed | Not Playing |
+| Far Cry 5 | Uplay | 33% | Installed | Playing |
 
 ### G
 ❌
@@ -104,7 +108,9 @@ I'm not really sure yet.
 ❌
 
 ### R
-❌
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
+| The Red Strings Club | Steam | ~5% | Installed | Playing |
 
 ### S
 | Title | Platform | % | Installed? | Playing? |
@@ -129,7 +135,9 @@ I'm not really sure yet.
 | Tacoma | Steam | 0% | Installed | Not Playing |
 
 ### U
-❌
+| Title | Platform | % | Installed? | Playing? |
+|:-----:|:--------:| -:|:----------:|:--------:|
+| Unbox | Steam | 0% | Installed | Not Playing |
 
 ### V
 ❌
