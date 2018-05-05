@@ -1,0 +1,32 @@
+#selector
+{
+    width: 100%;
+    text-align: center;
+}
+
+#games
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#games td, #games th
+{
+    border: 1px solid rgb(100, 100, 100);
+    padding: 8px;
+}
+
+#games tr:hover
+{
+    background-color: #ddd;
+}
+
+#games th
+{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(175, 76, 76);
+    color: white;
+}
